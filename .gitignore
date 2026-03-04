@@ -1,0 +1,18 @@
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# # Virtual environment
+.venv
+
+# Ignore model files
+*.pkl
+*.joblib
+*.keras
+
+Indian_Credit_card/models/
+Predicting_food_price_nigearia/artifacts/
+
+

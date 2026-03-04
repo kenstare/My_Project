@@ -1,0 +1,22 @@
+# This libraries for Eda_global_annml_population
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+fastapi
+uvicorn
+
+
+# This libraries for indian_credit_card
+uvicorn
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+tensorflow
+folium
+streamlit
