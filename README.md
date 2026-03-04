@@ -8,6 +8,11 @@ This workspace contains three small data projects focused on exploration, analys
 - `Indian_Credit_card/` — Credit card transaction EDA and dashboard for India transactions.
 - `Predicting_food_price_nigearia/` — Food price prediction models for Nigeria and a small API.
 
+
+- Models are not included in this repository due to size limits.
+
+
+
 Quick setup
 -
 1. Create a virtual environment and install dependencies:
