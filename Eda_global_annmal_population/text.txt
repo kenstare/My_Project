@@ -151,5 +151,3 @@ I deployed the final model as a production-ready REST API:
 ---
 
 **dataset + this analysis = a complete, accurate, and deployable global population forecasting system.**
-
-You now possess one of the most accurate, transparent, and lightweight population models in existence
